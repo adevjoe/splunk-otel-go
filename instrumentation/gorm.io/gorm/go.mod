@@ -1,4 +1,4 @@
-module github.com/adevjoe/splunk-otel-go/instrumentation/gorm.io/gorm/splunkgorm
+module github.com/signalfx/splunk-otel-go/instrumentation/gorm.io/gorm/splunkgorm
 
 go 1.23.0
 
