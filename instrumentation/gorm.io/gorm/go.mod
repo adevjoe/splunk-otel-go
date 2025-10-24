@@ -1,9 +1,9 @@
-module github.com/signalfx/splunk-otel-go/instrumentation/gorm.io/gorm/splunkgorm
+module github.com/adevjoe/splunk-otel-go/instrumentation/gorm.io/gorm/splunkgorm
 
 go 1.23.0
 
 require (
-	github.com/signalfx/splunk-otel-go/instrumentation/database/sql/splunksql v1.28.0
+	github.com/signalfx/splunk-otel-go/instrumentation/database/sql/splunksql v1.18.0
 	gorm.io/driver/mysql v1.5.7
 	gorm.io/gorm v1.30.0
 )
